@@ -1,0 +1,12 @@
+.divArray{
+    margin: 30px;
+}
+
+.lineDiv{
+    display: flex;
+    justify-content:center
+}
+
+body{
+    background-color: pink;
+}
